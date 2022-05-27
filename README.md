@@ -1,1 +1,1 @@
-# jjtech-repository
+# jjtech-ec2-repository
